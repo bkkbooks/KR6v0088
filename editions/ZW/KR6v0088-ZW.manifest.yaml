@@ -1,0 +1,262 @@
+canonical_identifier: bkk:krp/KR6v0088/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0088/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如來廣孝十種報恩道場儀
+  identifiers:
+    krp: KR6v0088
+    cbeta: ZW08n0068
+    cbeta_old_id: ZW08n0068
+    authorityid: CA0008492
+    json_key: ZW0068
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0068.xml
+    old_id: ZW08n0068
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0088_000-ZW.yaml, hash: 'sha256:27caf4942935d09fa08c447bcbd0890772320886a7f6566dd9f1ada11956c188'}
+  - {seq: 1, filename: KR6v0088_001-ZW.yaml, hash: 'sha256:48a5e2501964fd97fa072419b6e5ed67d850a6542de9c3cfb59a87048efd359d'}
+  - {seq: 2, filename: KR6v0088_002-ZW.yaml, hash: 'sha256:a8eda7396d3b0211b4852aeec1af6753c1a347c4a0b7b4640e0e4afedf584924'}
+  - {seq: 3, filename: KR6v0088_003-ZW.yaml, hash: 'sha256:d351e1b7b4e7f7bbd217a38b2459ffab98ffd4bd44d66f06c4df2891d1dbe6e8'}
+  - {seq: 4, filename: KR6v0088_004-ZW.yaml, hash: 'sha256:a310cfbf3eb845ff693aee058faca737c203c85af28a64e3e5ad03e14dd2d29c'}
+  - {seq: 5, filename: KR6v0088_005-ZW.yaml, hash: 'sha256:5659fe9736c980995a3381b6a1eecf73a7e84c9b12ecc0f751fbfd12c9859809'}
+  - {seq: 6, filename: KR6v0088_006-ZW.yaml, hash: 'sha256:06b0c522c45c7a9aee672fd70fccd45cfb702717eb480bff988720c169f3a0c3'}
+  - {seq: 7, filename: KR6v0088_007-ZW.yaml, hash: 'sha256:68f2d6f48efdf3da66cf25ae69a8ee11b2aebbfbdf9757c45556b87cf1826017'}
+  - {seq: 8, filename: KR6v0088_008-ZW.yaml, hash: 'sha256:d08285a08d3ccac61058919077371c24a8729d78b54b6bca7e3ca4b49bfee463'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0088_000-ZW.markers.yaml, hash: 'sha256:9e879a99119ddf579e803b8480c865a75ac7f692e22c7bd811546d861ab95f2d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0088_001-ZW.markers.yaml, hash: 'sha256:00273f492bcf039fd860eff37e5d434649255f3e724a1a5a79927b874efd2004'}
+  - {seq: 2, role: markers, filename: assets/KR6v0088_002-ZW.markers.yaml, hash: 'sha256:71ce4b4f0d9c67929aea0e42cebe55413e0562bb09ec004dcde659954def1806'}
+  - {seq: 3, role: markers, filename: assets/KR6v0088_003-ZW.markers.yaml, hash: 'sha256:9aa95c88c49deefcadf3d19063d3dcde3d2edc638e47ef82a54400f102c09dda'}
+  - {seq: 4, role: markers, filename: assets/KR6v0088_004-ZW.markers.yaml, hash: 'sha256:7103a00d81b2bbff8b4a180c0e2c1480b4671bd2cadb9dd4248e324191168273'}
+  - {seq: 5, role: markers, filename: assets/KR6v0088_005-ZW.markers.yaml, hash: 'sha256:330d066790e25e7cbf8830a9e3803db239241e1bec0046ccd83c31cca081286d'}
+  - {seq: 6, role: markers, filename: assets/KR6v0088_006-ZW.markers.yaml, hash: 'sha256:fc16c85edc3de067e81fdd345ddc652dfd2e3e4ca3ba0a5b5e2a9796c5077e62'}
+  - {seq: 7, role: markers, filename: assets/KR6v0088_007-ZW.markers.yaml, hash: 'sha256:03672034f72c0d8c6986f5273cadf5dcc4b844287db253ea695463b6f69edc5f'}
+  - {seq: 8, role: markers, filename: assets/KR6v0088_008-ZW.markers.yaml, hash: 'sha256:1f64905d51a057569f62e6117b859e9af5025f2a543192f563ea95985d3501f9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0088_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0088_ZW_000-mulu-2
+    span:
+    - front
+    - 774
+    - 774
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0088_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 9925
+  label: 如來廣孝十種報恩道場教誡儀文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0088_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 西山郡學士化眾設初會疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0088_ZW_001-mulu-2
+    span:
+    - body
+    - 155
+    - 155
+  label: 孝順設供拔苦報恩道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0088_ZW_001-mulu-3
+    span:
+    - body
+    - 3805
+    - 3805
+  label: 如來廣孝十種報恩道場教誡儀文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0088_ZW_001-mulu-4
+    span:
+    - body
+    - 9925
+    - 9925
+  label: 如來廣孝十種報恩道場儀文卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0088_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 8544
+  label: 如來廣孝十種報恩道場儀文卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0088_ZW_002-mulu-1
+    span:
+    - body
+    - 8544
+    - 8544
+  label: 如來廣孝十種報恩道場紀讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0088_ZW_002-mulu-2
+    span:
+    - body
+    - 8544
+    - 8544
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0088_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 5292
+  label: 如來廣孝十種報恩道場紀讚
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0088_ZW_003-mulu-1
+    span:
+    - body
+    - 4721
+    - 4721
+  label: 附：十種報恩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0088_ZW_003-mulu-2
+    span:
+    - body
+    - 5292
+    - 5292
+  label: 如來廣孝十種報恩道場儀文卷中
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0088_ZW_004-juan-start
+    span:
+    - body
+    - 0
+    - 13527
+  label: 如來廣孝十種報恩道場儀文卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0088_ZW_004-mulu-1
+    span:
+    - body
+    - 13527
+    - 13527
+  label: 如來廣孝十種報恩道場儀文卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0088_ZW_005-juan-start
+    span:
+    - body
+    - 0
+    - 13644
+  label: 如來廣孝十種報恩道場儀文卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0088_ZW_005-mulu-1
+    span:
+    - body
+    - 13644
+    - 13644
+  label: 如來廣孝十種報恩道場三時提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0088_ZW_006-juan-start
+    span:
+    - body
+    - 0
+    - 9186
+  label: 如來廣孝十種報恩道場三時提綱
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0088_ZW_006-mulu-1
+    span:
+    - body
+    - 9186
+    - 9186
+  label: 如來廣孝十種報恩道場密教卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0088_ZW_007-juan-start
+    span:
+    - body
+    - 0
+    - 6389
+  label: 如來廣孝十種報恩道場密教卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0088_ZW_007-mulu-1
+    span:
+    - body
+    - 6389
+    - 6389
+  label: 如來廣孝十種報恩道場密教卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0088_ZW_008-juan-start
+    span:
+    - body
+    - 0
+    - 6500
+  label: 如來廣孝十種報恩道場密教卷下
+  type: juan
+  level: 1
+hash: sha256:f62d087db600f6b1c78c60788b8d48c6089b59c4e919c921e6f1f348faef37e5
