@@ -21,7 +21,7 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0088_000.yaml, hash: 'sha256:1e0aa2ba294408635a18a930940dbdb9cf18f0171cfdb507b63574f8649546dc'}
+  - {seq: 0, filename: KR6v0088_000.yaml, hash: 'sha256:bfedd1d6204bfd5e57b79eedce16ed6ed428933e9a5f0ec705b3c7c367d2da95'}
   - {seq: 1, filename: KR6v0088_001.yaml, hash: 'sha256:bb29161f3a52be094c511f82ee9e47d21b9202fb3b9b3a712975d893d7cf3e19'}
   - {seq: 2, filename: KR6v0088_002.yaml, hash: 'sha256:8c240d8684571ab29db82608167d9196581f71f4a7f68444ffff439bd9439d23'}
   - {seq: 3, filename: KR6v0088_003.yaml, hash: 'sha256:b48b10fa96c6f591af34ea80a386091c07b46074639c9d56f5dbd03cc0569c44'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6v0088_007.yaml, hash: 'sha256:7d6a2556074fe098fd40757e28aeee93a483cc5635c835565b9b8ec351daf75d'}
   - {seq: 8, filename: KR6v0088_008.yaml, hash: 'sha256:70d4bf0c2b5c0849946de0a302a4afc2a8981c7f272008845e9d3896882a69ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0088_000.markers.yaml, hash: 'sha256:094def4c1243924a23db57d1e676417918941dd5630f9ad56f0747e8936c4cff'}
+  - {seq: 0, role: markers, filename: assets/KR6v0088_000.markers.yaml, hash: 'sha256:3b953581c0e6ad622e88e2d60fd6ac17909d4357dfbb1aae5c9b32f600cfd376'}
   - {seq: 1, role: markers, filename: assets/KR6v0088_001.markers.yaml, hash: 'sha256:01ae63bf8e6ddc87bc5dc027d097f0777b1c3b5782943f4e1cc6ccd4769d47b1'}
   - {seq: 2, role: markers, filename: assets/KR6v0088_002.markers.yaml, hash: 'sha256:00fddc0e451e55dafa05d142c809b7008f41c5734ef5ff6b1007b17d2ca8f357'}
   - {seq: 3, role: markers, filename: assets/KR6v0088_003.markers.yaml, hash: 'sha256:752b4bc4614fac5c3ba444aa2e589e4714b539635da5dd282b679571c83ea53e'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0088_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0088_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 774
     - 774
   label: 錄文
@@ -261,7 +261,7 @@ table_of_contents:
   label: 如來廣孝十種報恩道場密教卷下
   type: juan
   level: 1
-hash: sha256:95254efaf4b65bfb09d742d76cb1696fdb65f23e2c6e5e74942f274ffdc6e43b
+hash: sha256:f4e6c4eafcd51ea80c81c555c4311df830cf9ecb98c428b37bcd9f41b2f183ca
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
